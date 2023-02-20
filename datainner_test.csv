@@ -1,0 +1,47 @@
+,Word,salet guesschain,salet reductions,salet score,reast guesschain,reast reductions,reast score,crate guesschain,crate reductions,crate score,trace guesschain,trace reductions,trace score,slate guesschain,slate reductions,slate score,crane guesschain,crane reductions,crane score,word1,word2,word3,word4,word5
+0,whine,salet bebop whine,5,3,reast pixie whine,4,3,crate belie whine,5,3,trace belie whine,5,3,slate pixie whine,3,3,crane whine,1,2,w,h,i,n,e
+1,skirt,salet skirt,1,2,reast skirt,1,2,crate flirt skirt,3,3,trace flirt skirt,3,3,slate skirt,1,2,crane flirt skirt,6,3,s,k,i,r,t
+2,antic,salet antic,1,2,reast antic,1,2,crate antic,1,2,trace antic,1,2,slate adopt antic,3,3,crane antic,1,2,a,n,t,i,c
+3,layer,salet layer,1,2,reast layer,2,2,crate layer,2,2,trace layer,2,2,slate layer,1,2,crane alter layer,4,3,l,a,y,e,r
+4,sleek,salet sleek,1,2,reast sleek,1,2,crate beefy sleek,5,3,trace beefy sleek,5,3,slate sleek,1,2,crane beefy sleek,4,3,s,l,e,e,k
+5,belie,salet belie,1,2,reast beefy belie,5,3,crate belie,4,2,trace belie,4,2,slate belie,1,2,crane belie,3,2,b,e,l,i,e
+6,lemon,salet elude lemon,3,3,reast beefy lemon,5,3,crate beefy lemon,5,3,trace beefy lemon,5,3,slate lemon,1,2,crane lemon,1,2,l,e,m,o,n
+7,opera,salet crave opera,4,3,reast layer opera,3,3,crate layer opera,3,3,trace layer opera,3,3,slate opera,1,2,crane alter opera,4,3,o,p,e,r,a
+8,pixie,salet bebop pixie,5,3,reast pixie,3,2,crate belie pixie,5,3,trace belie pixie,5,3,slate pixie,2,2,crane belie pixie,4,3,p,i,x,i,e
+9,grimy,salet frock grimy,5,3,reast frock grimy,5,3,crate grimy,1,2,trace grimy,1,2,slate frock grimy,5,3,crane grimy,1,2,g,r,i,m,y
+10,sedan,salet sedan,1,2,reast sedan,1,2,crate sedan,1,2,trace sedan,1,2,slate sedan,1,2,crane sedan,1,2,s,e,d,a,n
+11,leapt,salet leapt,1,2,reast leapt,1,2,crate leapt,1,2,trace leapt,1,2,slate leapt,1,2,crane heady leapt,3,3,l,e,a,p,t
+12,human,salet chard human,3,3,reast human,2,2,crate human,2,2,trace human,2,2,slate human,2,2,crane human,1,2,h,u,m,a,n
+13,koala,salet flail koala,3,3,reast flail koala,3,3,crate flail koala,3,3,trace flail koala,3,3,slate koala,1,2,crane flail koala,3,3,k,o,a,l,a
+14,spire,salet spire,1,2,reast spire,1,2,crate spire,1,2,trace spire,1,2,slate spire,1,2,crane spire,1,2,s,p,i,r,e
+15,frock,salet frock,4,2,reast frock,4,2,crate frock,1,2,trace frock,1,2,slate frock,4,2,crane frock,1,2,f,r,o,c,k
+16,adopt,salet adopt,2,2,reast adopt,1,2,crate adopt,1,2,trace adopt,1,2,slate adopt,2,2,crane adopt,3,2,a,d,o,p,t
+17,chard,salet chard,2,2,reast chard,1,2,crate chard,1,2,trace chard,1,2,slate chard,1,2,crane chard,1,2,c,h,a,r,d
+18,mucky,salet frock mucky,5,3,reast mucky,1,2,crate mucky,2,2,trace mucky,2,2,slate frock mucky,5,3,crane mucky,2,2,m,u,c,k,y
+19,alter,salet alter,1,2,reast alter,1,2,crate alter,1,2,trace alter,1,2,slate alter,1,2,crane alter,3,2,a,l,t,e,r
+20,blurb,salet blurb,1,2,reast frock blurb,5,3,crate birds blurb,4,3,trace birds blurb,4,3,slate blurb,1,2,crane flirt blurb,6,3,b,l,u,r,b
+21,matey,salet matey,1,2,reast matey,1,2,crate matey,1,2,trace matey,1,2,slate matey,1,2,crane matey,1,2,m,a,t,e,y
+22,elude,salet elude,2,2,reast pixie elude,4,3,crate belie elude,5,3,trace belie elude,5,3,slate elude,1,2,crane belie elude,4,3,e,l,u,d,e
+23,count,salet count,1,2,reast count,2,2,crate count,1,2,trace count,1,2,slate count,1,2,crane count,1,2,c,o,u,n,t
+24,maize,salet dance maize,3,3,reast dance maize,4,3,crate apple maize,3,3,trace apple maize,3,3,slate dance maize,3,3,crane apple maize,3,3,m,a,i,z,e
+25,beefy,salet bebop beefy,5,3,reast beefy,4,2,crate beefy,4,2,trace beefy,4,2,slate beefy,2,2,crane beefy,3,2,b,e,e,f,y
+26,worry,salet frock worry,5,3,reast frock worry,5,3,crate birds worry,4,3,trace birds worry,4,3,slate frock worry,5,3,crane flirt worry,6,3,w,o,r,r,y
+27,flirt,salet flirt,1,2,reast flirt,1,2,crate flirt,2,2,trace flirt,2,2,slate flirt,1,2,crane flirt,5,2,f,l,i,r,t
+28,fishy,salet fishy,1,2,reast scold fishy,4,3,crate fishy,2,2,trace fishy,2,2,slate fishy,1,2,crane fishy,1,2,f,i,s,h,y
+29,crave,salet crave,3,2,reast crave,1,2,crate crave,1,2,trace crave,1,2,slate crave,1,2,crane crave,1,2,c,r,a,v,e
+30,scold,salet scold,1,2,reast scold,3,2,crate mucky scold,3,3,trace mucky scold,3,3,slate scold,1,2,crane mucky scold,3,3,s,c,o,l,d
+31,shirk,salet shirk,2,2,reast shirk,1,2,crate birds shirk,4,3,trace birds shirk,4,3,slate shirk,2,2,crane flirt shirk,6,3,s,h,i,r,k
+32,tasty,salet tasty,1,2,reast tasty,1,2,crate tasty,1,2,trace tasty,1,2,slate tasty,1,2,crane adopt tasty,4,3,t,a,s,t,y
+33,unlit,salet unlit,1,2,reast count unlit,3,3,crate unlit,1,2,trace ninth unlit,3,3,slate unlit,1,2,crane ninth unlit,3,3,u,n,l,i,t
+34,dance,salet dance,2,2,reast dance,3,2,crate dance,1,2,trace dance,1,2,slate dance,2,2,crane dance,1,2,d,a,n,c,e
+35,ninth,salet ninth,1,2,reast ninth,1,2,crate ninth,1,2,trace ninth,2,2,slate ninth,1,2,crane ninth,2,2,n,i,n,t,h
+36,apple,salet apple,1,2,reast dance apple,4,3,crate apple,2,2,trace apple,2,2,slate apple,1,2,crane apple,2,2,a,p,p,l,e
+37,flail,salet flail,2,2,reast flail,2,2,crate flail,2,2,trace flail,2,2,slate flail,1,2,crane flail,2,2,f,l,a,i,l
+38,stage,salet stage,1,2,reast stage,1,2,crate stage,1,2,trace stage,1,2,slate stage,1,2,crane stage,2,2,s,t,a,g,e
+39,heady,salet crave heady,4,3,reast heady,1,2,crate heady,1,2,trace heady,1,2,slate heady,1,2,crane heady,2,2,h,e,a,d,y
+40,debug,salet bebop debug,5,3,reast beefy debug,5,3,crate beefy debug,5,3,trace beefy debug,5,3,slate beefy debug,3,3,crane beefy debug,4,3,d,e,b,u,g
+41,giant,salet adopt giant,3,3,reast giant,1,2,crate giant,1,2,trace giant,1,2,slate giant,1,2,crane giant,1,2,g,i,a,n,t
+42,usage,salet usage,1,2,reast usage,1,2,crate usage,1,2,trace usage,1,2,slate usage,1,2,crane stage usage,3,3,u,s,a,g,e
+43,sound,salet shirk sound,3,3,reast scold sound,4,3,crate fishy sound,3,3,trace fishy sound,3,3,slate shirk sound,3,3,crane sound,1,2,s,o,u,n,d
+44,salsa,salet salsa,1,2,reast salsa,1,2,crate human salsa,3,3,trace human salsa,3,3,slate salsa,1,2,crane adopt salsa,4,3,s,a,l,s,a
+45,magic,salet magic,1,2,reast human magic,3,3,crate magic,1,2,trace magic,1,2,slate human magic,3,3,crane magic,1,2,m,a,g,i,c
